@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>RE on Study With Thune</title>
+    <link>https://thunebae.github.io/en/tags/re/</link>
+    <description>Recent content in RE on Study With Thune</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>happynguyen@gmail.com (thunebae)</managingEditor>
+    <webMaster>happynguyen@gmail.com (thunebae)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 06 Oct 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://thunebae.github.io/en/tags/re/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Write-ups REV CTF</title>
+        <link>https://thunebae.github.io/en/posts/write-up/</link>
+        <pubDate>Wed, 06 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen@gmail.com (thunebae)</author>
+        <atom:modified>Wed, 06 Oct 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/write-up/</guid>
+        <description>ImaginaryCTF-Write-up 1. stings Đầu tiên, ta phải kiểm tra định dạng file.
+Hình 1:File stings Như ta thấy trong hình trên, stings là file ELF 64-bit LSB pie excutetable, x86-64 =&amp;gt; sử dụng IDApro 64-bit
+Chạy thử trên máy ảo xem có gì trong trỏng.
+Hình 2:Chạy demo File này hoá ra là một con ong thích chơi trò mật mã. Nếu bạn đoán đúng mật khẩu thì không bị chích.</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.ioimages/feature1/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>write-up</category>
+            
+          
+            
+              <category>CTF</category>
+            
+          
+            
+              <category>RE</category>
+            
+          
+            
+              <category>rev</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

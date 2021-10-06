@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Talks on Study With Thune</title>
+    <link>https://thunebae.github.io/en/talks/</link>
+    <description>Recent content in Talks on Study With Thune</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>happynguyen@gmail.com (thunebae)</managingEditor>
+    <webMaster>happynguyen@gmail.com (thunebae)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 11:14:14 +0900</lastBuildDate>
+    
+        <atom:link href="https://thunebae.github.io/en/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>My Awesome links</title>
+        <link>https://thunebae.github.io/en/talks/mylinks/</link>
+        <pubDate>Tue, 31 Dec 2019 00:04:50 +0900</pubDate>
+        <author>happynguyen@gmail.com (thunebae)</author>
+        <atom:modified>Tue, 31 Dec 2019 00:04:50 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/talks/mylinks/</guid>
+        <description></description>
+        
+        <dc:creator>thunebae</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
