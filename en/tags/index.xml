@@ -11,10 +11,10 @@
     <description>Recent content in Tags on Study With Thune</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>happynguyen@gmail.com (thunebae)</managingEditor>
-    <webMaster>happynguyen@gmail.com (thunebae)</webMaster>
+    <managingEditor>happynguyen1902@gmail.com (thunebae)</managingEditor>
+    <webMaster>happynguyen1902@gmail.com (thunebae)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 06 Oct 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Oct 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://thunebae.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,8 +23,8 @@
       <item>
         <title>CTF</title>
         <link>https://thunebae.github.io/en/tags/ctf/</link>
-        <pubDate>Wed, 06 Oct 2021 12:00:06 +0900</pubDate>
-        <author>happynguyen@gmail.com (thunebae)</author>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
         
         <guid>https://thunebae.github.io/en/tags/ctf/</guid>
         <description></description>
@@ -39,10 +39,28 @@
       </item>
       
       <item>
+        <title>DUCTF</title>
+        <link>https://thunebae.github.io/en/tags/ductf/</link>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        
+        <guid>https://thunebae.github.io/en/tags/ductf/</guid>
+        <description></description>
+        
+        <dc:creator>thunebae</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>RE</title>
         <link>https://thunebae.github.io/en/tags/re/</link>
-        <pubDate>Wed, 06 Oct 2021 12:00:06 +0900</pubDate>
-        <author>happynguyen@gmail.com (thunebae)</author>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
         
         <guid>https://thunebae.github.io/en/tags/re/</guid>
         <description></description>
@@ -57,10 +75,28 @@
       </item>
       
       <item>
+        <title>release1</title>
+        <link>https://thunebae.github.io/en/tags/release1/</link>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        
+        <guid>https://thunebae.github.io/en/tags/release1/</guid>
+        <description></description>
+        
+        <dc:creator>thunebae</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>rev</title>
         <link>https://thunebae.github.io/en/tags/rev/</link>
-        <pubDate>Wed, 06 Oct 2021 12:00:06 +0900</pubDate>
-        <author>happynguyen@gmail.com (thunebae)</author>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
         
         <guid>https://thunebae.github.io/en/tags/rev/</guid>
         <description></description>
@@ -77,8 +113,8 @@
       <item>
         <title>write-up</title>
         <link>https://thunebae.github.io/en/tags/write-up/</link>
-        <pubDate>Wed, 06 Oct 2021 12:00:06 +0900</pubDate>
-        <author>happynguyen@gmail.com (thunebae)</author>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
         
         <guid>https://thunebae.github.io/en/tags/write-up/</guid>
         <description></description>
@@ -96,7 +132,7 @@
         <title>index</title>
         <link>https://thunebae.github.io/en/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>happynguyen@gmail.com (thunebae)</author>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
         
         <guid>https://thunebae.github.io/en/tags/index/</guid>
         <description></description>

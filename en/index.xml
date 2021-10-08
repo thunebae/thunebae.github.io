@@ -11,10 +11,10 @@
     <description>Recent content on Study With Thune</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>happynguyen@gmail.com (thunebae)</managingEditor>
-    <webMaster>happynguyen@gmail.com (thunebae)</webMaster>
+    <managingEditor>happynguyen1902@gmail.com (thunebae)</managingEditor>
+    <webMaster>happynguyen1902@gmail.com (thunebae)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 06 Oct 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Oct 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://thunebae.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,10 +24,118 @@
 
       
       <item>
+        <title>DownUnderCTF REV Write-ups</title>
+        <link>https://thunebae.github.io/en/posts/downunderctf/</link>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Fri, 08 Oct 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/downunderctf/</guid>
+        <description>1. No strings Sử dụng IDAPro 64-bit disassembly ra đoạn mã giả bên dưới, ta thấy được dòng số 9 là nhập vào một chuỗi mà chuỗi này chính là flag cần tìm.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  int __cdecl main(int argc, const char **argv, const char **envp) { int i; // [rsp+Ch] [rbp-64h]  char s[72]; // [rsp+10h] [rbp-60h] BYREF  unsigned __int64 v6; // [rsp+58h] [rbp-18h]  v6 = __readfsqword(0x28u); printf(&amp;#34;flag?</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.ioimages/feature1/DUCTF.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>write-up</category>
+            
+          
+            
+              <category>DUCTF</category>
+            
+          
+            
+              <category>CTF</category>
+            
+          
+            
+              <category>RE</category>
+            
+          
+            
+              <category>rev</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Release 1</title>
+        <link>https://thunebae.github.io/en/posts/release1/</link>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Fri, 08 Oct 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/release1/</guid>
+        <description>1. ES crack File: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, with debug_info, not stripped
+Sử dụng IDA pro 32-bit, tập trung vào đoạn code sau:
+Hình 1:Mã assembly Ta thấy rằng chỉ cần thêm vào chuỗi có các ký tự đầu bằng với password (0x35353450) thì khúc sau các ký tự có là gì cũng không quan trọng.
+ FLAG: P445x (với x là chuỗi ký tự tự do)</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.ioimages/feature1/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>write-up</category>
+            
+          
+            
+              <category>release1</category>
+            
+          
+            
+              <category>CTF</category>
+            
+          
+            
+              <category>RE</category>
+            
+          
+            
+              <category>rev</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Write-ups REV CTF</title>
         <link>https://thunebae.github.io/en/posts/write-up/</link>
         <pubDate>Wed, 06 Oct 2021 12:00:06 +0900</pubDate>
-        <author>happynguyen@gmail.com (thunebae)</author>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
         <atom:modified>Wed, 06 Oct 2021 12:00:06 +0900</atom:modified>
         <guid>https://thunebae.github.io/en/posts/write-up/</guid>
         <description>ImaginaryCTF-Write-up 1. stings Đầu tiên, ta phải kiểm tra định dạng file.
@@ -75,45 +183,15 @@ Hình 2:Chạy demo File này hoá ra là một con ong thích chơi trò m�
       </item>
       
       <item>
-        <title>My Awesome links</title>
-        <link>https://thunebae.github.io/en/talks/mylinks/</link>
-        <pubDate>Tue, 31 Dec 2019 00:04:50 +0900</pubDate>
-        <author>happynguyen@gmail.com (thunebae)</author>
-        <atom:modified>Tue, 31 Dec 2019 00:04:50 +0900</atom:modified>
-        <guid>https://thunebae.github.io/en/talks/mylinks/</guid>
-        <description></description>
-        
-        <dc:creator>thunebae</dc:creator>
-        
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
         <title>About</title>
         <link>https://thunebae.github.io/en/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        <author>happynguyen@gmail.com (thunebae)</author>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
         <atom:modified>Thu, 28 Feb 2019 00:00:00 +0000</atom:modified>
         <guid>https://thunebae.github.io/en/about/</guid>
-        <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+        <description>Hola 👋 ✨Welcome to my page and I am thunebae✨ 👧 Well! This is a page of a little girl who try to study something in security, not easy, but it&amp;rsquo;s all her efforts everyday to gain knowledge 😕
+📧 Thank you to visit my page 😊
+ 🔭 I’m currently studying on UIT (a university in Viet Nam) 🌱 I’m currently learning Security Information 🤔 I’m looking for help with somebody who can love me 😝 ⚡ Fun fact: I don&amp;rsquo;t play game but I can spent 3 hours to watch streamers play it 😃  🤔 I am currently focusing on:  CTF: Write up some challenge rev (just rev 😅) And something else bla bla bla</description>
         
         <dc:creator>thunebae</dc:creator>
         

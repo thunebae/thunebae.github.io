@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>release1 on Study With Thune</title>
+    <link>https://thunebae.github.io/en/tags/release1/</link>
+    <description>Recent content in release1 on Study With Thune</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>happynguyen1902@gmail.com (thunebae)</managingEditor>
+    <webMaster>happynguyen1902@gmail.com (thunebae)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 08 Oct 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://thunebae.github.io/en/tags/release1/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Release 1</title>
+        <link>https://thunebae.github.io/en/posts/release1/</link>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Fri, 08 Oct 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/release1/</guid>
+        <description>1. ES crack File: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, with debug_info, not stripped
+Sử dụng IDA pro 32-bit, tập trung vào đoạn code sau:
+Hình 1:Mã assembly Ta thấy rằng chỉ cần thêm vào chuỗi có các ký tự đầu bằng với password (0x35353450) thì khúc sau các ký tự có là gì cũng không quan trọng.
+ FLAG: P445x (với x là chuỗi ký tự tự do)</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.ioimages/feature1/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>write-up</category>
+            
+          
+            
+              <category>release1</category>
+            
+          
+            
+              <category>CTF</category>
+            
+          
+            
+              <category>RE</category>
+            
+          
+            
+              <category>rev</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

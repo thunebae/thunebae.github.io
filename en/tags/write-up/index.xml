@@ -11,20 +11,128 @@
     <description>Recent content in write-up on Study With Thune</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>happynguyen@gmail.com (thunebae)</managingEditor>
-    <webMaster>happynguyen@gmail.com (thunebae)</webMaster>
+    <managingEditor>happynguyen1902@gmail.com (thunebae)</managingEditor>
+    <webMaster>happynguyen1902@gmail.com (thunebae)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 06 Oct 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Oct 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://thunebae.github.io/en/tags/write-up/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>DownUnderCTF REV Write-ups</title>
+        <link>https://thunebae.github.io/en/posts/downunderctf/</link>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Fri, 08 Oct 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/downunderctf/</guid>
+        <description>1. No strings Sử dụng IDAPro 64-bit disassembly ra đoạn mã giả bên dưới, ta thấy được dòng số 9 là nhập vào một chuỗi mà chuỗi này chính là flag cần tìm.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  int __cdecl main(int argc, const char **argv, const char **envp) { int i; // [rsp+Ch] [rbp-64h]  char s[72]; // [rsp+10h] [rbp-60h] BYREF  unsigned __int64 v6; // [rsp+58h] [rbp-18h]  v6 = __readfsqword(0x28u); printf(&amp;#34;flag?</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.ioimages/feature1/DUCTF.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>write-up</category>
+            
+          
+            
+              <category>DUCTF</category>
+            
+          
+            
+              <category>CTF</category>
+            
+          
+            
+              <category>RE</category>
+            
+          
+            
+              <category>rev</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Release 1</title>
+        <link>https://thunebae.github.io/en/posts/release1/</link>
+        <pubDate>Fri, 08 Oct 2021 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Fri, 08 Oct 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/release1/</guid>
+        <description>1. ES crack File: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, with debug_info, not stripped
+Sử dụng IDA pro 32-bit, tập trung vào đoạn code sau:
+Hình 1:Mã assembly Ta thấy rằng chỉ cần thêm vào chuỗi có các ký tự đầu bằng với password (0x35353450) thì khúc sau các ký tự có là gì cũng không quan trọng.
+ FLAG: P445x (với x là chuỗi ký tự tự do)</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.ioimages/feature1/workflow.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>write-up</category>
+            
+          
+            
+              <category>release1</category>
+            
+          
+            
+              <category>CTF</category>
+            
+          
+            
+              <category>RE</category>
+            
+          
+            
+              <category>rev</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+        
+          
+            
+              <category>Write-ups CTF</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Write-ups REV CTF</title>
         <link>https://thunebae.github.io/en/posts/write-up/</link>
         <pubDate>Wed, 06 Oct 2021 12:00:06 +0900</pubDate>
-        <author>happynguyen@gmail.com (thunebae)</author>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
         <atom:modified>Wed, 06 Oct 2021 12:00:06 +0900</atom:modified>
         <guid>https://thunebae.github.io/en/posts/write-up/</guid>
         <description>ImaginaryCTF-Write-up 1. stings Đầu tiên, ta phải kiểm tra định dạng file.
