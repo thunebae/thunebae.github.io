@@ -13,12 +13,48 @@
     <language>en</language>
     <managingEditor>happynguyen1902@gmail.com (thunebae)</managingEditor>
     <webMaster>happynguyen1902@gmail.com (thunebae)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 08 Oct 2021 12:00:06 +0900</lastBuildDate>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 20 Jul 2022 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://thunebae.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>project</title>
+        <link>https://thunebae.github.io/en/tags/project/</link>
+        <pubDate>Wed, 20 Jul 2022 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        
+        <guid>https://thunebae.github.io/en/tags/project/</guid>
+        <description></description>
+        
+        <dc:creator>thunebae</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>thunebae</title>
+        <link>https://thunebae.github.io/en/tags/thunebae/</link>
+        <pubDate>Wed, 20 Jul 2022 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        
+        <guid>https://thunebae.github.io/en/tags/thunebae/</guid>
+        <description></description>
+        
+        <dc:creator>thunebae</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>CTF</title>

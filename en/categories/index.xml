@@ -13,12 +13,30 @@
     <language>en</language>
     <managingEditor>happynguyen1902@gmail.com (thunebae)</managingEditor>
     <webMaster>happynguyen1902@gmail.com (thunebae)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 08 Oct 2021 12:00:06 +0900</lastBuildDate>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 20 Jul 2022 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://thunebae.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Project</title>
+        <link>https://thunebae.github.io/en/categories/project/</link>
+        <pubDate>Wed, 20 Jul 2022 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        
+        <guid>https://thunebae.github.io/en/categories/project/</guid>
+        <description></description>
+        
+        <dc:creator>thunebae</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Write-ups CTF</title>

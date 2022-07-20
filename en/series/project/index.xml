@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Project on Study With Thune</title>
+    <link>https://thunebae.github.io/en/series/project/</link>
+    <description>Recent content in Project on Study With Thune</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>happynguyen1902@gmail.com (thunebae)</managingEditor>
+    <webMaster>happynguyen1902@gmail.com (thunebae)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 20 Jul 2022 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://thunebae.github.io/en/series/project/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Using Federated learning for detecting malware in IoT network context.</title>
+        <link>https://thunebae.github.io/en/posts/fedmalware/</link>
+        <pubDate>Wed, 20 Jul 2022 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Wed, 20 Jul 2022 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/fedmalware/</guid>
+        <description>Federated learning It is decentralized machine learning, where the server sends the initialization model to the clients, then the client uses the global model to train with their own data and then their local model onto the server. The server will aggregate these local models using the aggregation algorithm.
+Hình 1:Federated learning diagramIn my project Model: using MLP 2-layer (115,2) algorithm for training model
+Aggregation algorithm at server: FedAVG (recipe below)</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.io/images/project/fed/ai.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>thunebae</category>
+            
+          
+            
+              <category>project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>CarePlus</title>
+        <link>https://thunebae.github.io/en/posts/careplus/</link>
+        <pubDate>Tue, 19 Jul 2022 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Tue, 19 Jul 2022 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/careplus/</guid>
+        <description>Framework: Django with python Idea: Create a website to manage F0 patient at home (This project was created when my team must study at home because of Social distancing during covid epidemic)
+Feature: ⚠️WARNING: CarePlus has many bugs, omissions, incomplete functions. But my team has too lazy to fix and complete itFor all users: sign in, log out, edit profile (edit picture profile), health declaration
+Hình 1:Update profileOnly for doctor: add patient by identity card number (it&amp;rsquo;s only show in patient profile and only doctor knows it), classify patient (warning level: blue (it&amp;rsquo;s fine.</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.io/images/project/careplus/logo.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>thunebae</category>
+            
+          
+            
+              <category>project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>ECC Aplication</title>
+        <link>https://thunebae.github.io/en/posts/eccapp/</link>
+        <pubDate>Tue, 19 Jul 2022 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Tue, 19 Jul 2022 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/eccapp/</guid>
+        <description>Framework: Python with PyQt5-tools Idea It&amp;rsquo;s application just for demo (without communication through internet). For the purpose of preventing scores from leaking at server, we use AES-128 mode CBC to encrypt the data of the database and the AES key will be encrypted and exchanged by ECC.
+Implement Hình 1:UEIIS project graphWhen a teacher or student logs in, the public key will be downloaded from the server and use for decrypting ciphertext to score table.</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.io/images/project/ecc/post.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>thunebae</category>
+            
+          
+            
+              <category>project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Malware assignment</title>
+        <link>https://thunebae.github.io/en/posts/malware/</link>
+        <pubDate>Tue, 19 Jul 2022 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Tue, 19 Jul 2022 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/malware/</guid>
+        <description>Framework: pefile python Ex1 - File Infecting Virus 📑 CHALL 1: Add a new sectiion in pe file or use .reloc section to contain virus (Simple MessageBox). When program start, call virus first and program run normally.Honestly it&amp;rsquo;s not a virus, it&amp;rsquo;s not contagious. It&amp;rsquo;s just an experiment on inject pe file. Maybe If I has more time to do, I think I can make it&amp;hellip;umh contagious😳
+📑 CHALL 2: Call hijacking - Like challenge before, but somewhere call instruction in .</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.io/images/project/malware/virus.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>thunebae</category>
+            
+          
+            
+              <category>project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Paint Collaborator</title>
+        <link>https://thunebae.github.io/en/posts/paintcollab/</link>
+        <pubDate>Tue, 19 Jul 2022 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Tue, 19 Jul 2022 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/paintcollab/</guid>
+        <description>Feature Hình 1:Feature of Paint CollaboratorImplement Hình 1:DrawHình 2:Add pictureHình 3:Shape, line and colorHình 4:Paint Collaborator for 4 clientsSource code project at Github</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.io/images/project/paintcollab/logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>thunebae</category>
+            
+          
+            
+              <category>project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>TechBlog</title>
+        <link>https://thunebae.github.io/en/posts/techblog/</link>
+        <pubDate>Tue, 19 Jul 2022 12:00:06 +0900</pubDate>
+        <author>happynguyen1902@gmail.com (thunebae)</author>
+        <atom:modified>Tue, 19 Jul 2022 12:00:06 +0900</atom:modified>
+        <guid>https://thunebae.github.io/en/posts/techblog/</guid>
+        <description>Introduction Umh&amp;hellip;TechBlog is Technology plus Blog, so everybody can write and share their knowledges in this website
+Server: Linux​
+LAMP stack: Apache2, PHP, Mysql​
+MVC Framework​
+Program languages: PHP, HTML
+Feature Register, log in, log out, update profile
+Create, update, delete, view posts, pagination
+Comment, count views
+Upload images
+Hình 1:Home UISecurity method Prepared statement: prevent SQL injection
+SANITIZE INPUT PHP: prevent XSS
+Mode_rewrite: protect resources, prevent directory traversal</description>
+        
+        <dc:creator>thunebae</dc:creator>
+        <media:content url="https://thunebae.github.io/images/project/techblog/tech-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>thunebae</category>
+            
+          
+            
+              <category>project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+        
+          
+            
+              <category>Project</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

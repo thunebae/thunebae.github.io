@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>happynguyen1902@gmail.com (thunebae)</managingEditor>
     <webMaster>happynguyen1902@gmail.com (thunebae)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 08 Oct 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://thunebae.github.io/en/tags/ductf/index.xml" rel="self" type="application/rss+xml" />
@@ -28,7 +28,7 @@
         <atom:modified>Fri, 08 Oct 2021 12:00:06 +0900</atom:modified>
         <guid>https://thunebae.github.io/en/posts/downunderctf/</guid>
         <description>1. No strings Sử dụng IDAPro 64-bit disassembly ra đoạn mã giả bên dưới, ta thấy được dòng số 9 là nhập vào một chuỗi mà chuỗi này chính là flag cần tìm.
-0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  int __cdecl main(int argc, const char **argv, const char **envp) { int i; // [rsp+Ch] [rbp-64h]  char s[72]; // [rsp+10h] [rbp-60h] BYREF  unsigned __int64 v6; // [rsp+58h] [rbp-18h]  v6 = __readfsqword(0x28u); printf(&amp;#34;flag?</description>
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 int __cdecl main(int argc, const char **argv, const char **envp) { int i; // [rsp+Ch] [rbp-64h] char s[72]; // [rsp+10h] [rbp-60h] BYREF unsigned __int64 v6; // [rsp+58h] [rbp-18h] v6 = __readfsqword(0x28u); printf(&amp;#34;flag?</description>
         
         <dc:creator>thunebae</dc:creator>
         <media:content url="https://thunebae.github.ioimages/feature1/DUCTF.png" medium="image"><media:title type="html">featured image</media:title></media:content>
